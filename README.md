@@ -30,8 +30,8 @@ python2 main_linux.py
 ```
 
 
-# VIDEO
-[![Watch the video](https://img.youtube.com/vi/6XNf9s-PZxY/hqdefault.jpg)](https://www.youtube.com/watch?v=6XNf9s-PZxY)
+
+
 
 # ScreenShots
 ![Screenshot](Screenshot.png)
