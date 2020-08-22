@@ -39,7 +39,7 @@ Using open Adb ports we can exploit a device
 
 # HOW TO INSTALL ON WINDOWS
 ```
-git clone https://github.com/01010000-kumar/PhoneSploit
+git clone https://github.com/cyb3rt3ch/PhoneSploit
 extract adb.rar to the phonesploit directory 
 cd PhoneSploit
 pip install colorama
@@ -48,7 +48,7 @@ main.py
 
 # HOW TO INSTALL ON Linux
 ```
-git clone https://github.com/01010000-kumar/PhoneSploit
+git clone https://github.com/01010000-kumhttps://github.com/cyb3rt3ch/PhoneSploitar/PhoneSploit
 cd PhoneSploit
 pip3 install colorama
 ```
