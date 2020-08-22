@@ -48,7 +48,7 @@ main.py
 
 # HOW TO INSTALL ON Linux
 ```
-git clone https://github.com/01010000-kumhttps://github.com/cyb3rt3ch/PhoneSploitar/PhoneSploit
+git clone https://github.com/cyb3rt3ch/PhoneSploit
 cd PhoneSploit
 pip install colorama
 ```
