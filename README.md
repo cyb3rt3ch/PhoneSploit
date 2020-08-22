@@ -72,4 +72,6 @@ sudo apt install android-tools-adb android-tools-fastboot
 
 ```
 
+## Donate Us:
+   https://bit.ly/DonaTeUs
 
