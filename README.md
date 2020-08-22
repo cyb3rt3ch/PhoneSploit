@@ -1,5 +1,5 @@
 # PhoneSploit
-A tool for remote ADB exploitation in Python3.
+A tool for remote ADB exploitation in Python2.
 
 # Features
 * Access Shell
@@ -50,17 +50,17 @@ main.py
 ```
 git clone https://github.com/01010000-kumhttps://github.com/cyb3rt3ch/PhoneSploitar/PhoneSploit
 cd PhoneSploit
-pip3 install colorama
+pip install colorama
 ```
 
 # HOW TO INSTALL ON macOS
 First of all, install [brew](https://brew.sh)
 ```
 brew install git python@3
-git clone https://github.com/01010000-kumar/PhoneSploit
+git clone https://github.com/cyb3rt3ch/PhoneSploit
 cd PhoneSploit
-python3 -m pip install colorama
-python3 main_linux.py
+python2 -m pip install colorama
+python2 main_linux.py
 ```
 
 # IF ADB NOT FOUND
