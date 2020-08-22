@@ -56,7 +56,7 @@ pip install colorama
 # HOW TO INSTALL ON macOS
 First of all, install [brew](https://brew.sh)
 ```
-brew install git python@3
+brew install git python@2
 git clone https://github.com/cyb3rt3ch/PhoneSploit
 cd PhoneSploit
 python2 -m pip install colorama
