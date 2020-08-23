@@ -42,7 +42,7 @@ Using open Adb ports we can exploit a device
 git clone https://github.com/cyb3rt3ch/PhoneSploit
 extract adb.rar to the phonesploit directory 
 cd PhoneSploit
-pip install colorama
+pip2 install colorama
 main.py
 ```
 
@@ -50,7 +50,7 @@ main.py
 ```
 git clone https://github.com/cyb3rt3ch/PhoneSploit
 cd PhoneSploit
-pip install colorama
+pip2 install colorama
 python2 main_linux.py
 ```
 
@@ -60,7 +60,7 @@ First of all, install [brew](https://brew.sh)
 brew install git python@2
 git clone https://github.com/cyb3rt3ch/PhoneSploit
 cd PhoneSploit
-python2 -m pip install colorama
+python2 -m pip2 install colorama
 python2 main_linux.py
 ```
 
